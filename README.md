@@ -1,7 +1,7 @@
-# Art Marketplace using ERC-1155 Tokenization.
+# Art Marketplace using ERC-1155 Tokenization. <img src="/src/images/Step-1.png" alt="drawing" width="200"/>
 
 ### Fall 2023: Work Submitted for CSE700 Independent Study (Credits: 2)
-##### Submitted by: Harshitha Siddaramaiah (hsiddara), 
+##### Submitted by: Harshitha Siddaramaiah (hsiddara) 
 ##### UB Person Number: 50483838
 ##### Date: 26-Dec-2023
 
