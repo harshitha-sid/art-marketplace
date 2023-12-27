@@ -1,6 +1,6 @@
 # Art Marketplace using ERC-1155 Tokenization 
 
-### <img src="/src/images/ub_logo.png" alt="drawing" width="400"/> 
+### <img src="/src/images/ub_logo.png" alt="drawing" width="300"/> 
 ### Fall 2023: Work Submitted for CSE700 Independent Study (Credits: 2)
 ##### Submitted by: Harshitha Siddaramaiah (hsiddara) 
 ##### UB Person Number: 50483838
