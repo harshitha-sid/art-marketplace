@@ -112,7 +112,7 @@ In summary, the `_safeBatchTransferFrom` function is a crucial component in the 
 2. Query token balances using the `getOwnerTokens` function.
 
 ### Steps:
-1. As owner account, deploy the smart contract.
+1. As owner account, deploy the smart contract in the Remix IDE by choosing one of the Remix VMs in the Environment. In this example, Remix VM (Shanghai) is chosen.
 2. Check the initial supplies of paintings and gift cards for the owner account. By default, it should be 10 paintings and 100 ETHs respectively.
 3. Now, change to the purchaser account by selecting another account in the drop down.
 4. Enter the value of the ETH that is payable to the `purchasePainting` method. In this example, 35 ETH will be deducted from the purchaser account.
