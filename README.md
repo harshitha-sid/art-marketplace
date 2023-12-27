@@ -113,12 +113,32 @@ In summary, the `_safeBatchTransferFrom` function is a crucial component in the 
 
 ### Steps:
 1. As owner account, deploy the smart contract in the Remix IDE by choosing one of the Remix VMs in the Environment. In this example, Remix VM (Shanghai) is chosen.
+
+![Step-1](/src/images/Step-1.png)
+
 2. Check the initial supplies of paintings and gift cards for the owner account. By default, it should be 10 paintings and 100 ETHs respectively.
+
+![Step-2](/src/images/Step-2.png)
+
 3. Now, change to the purchaser account by selecting another account in the drop down.
+
+![Step-3](/src/images/Step-3.png)
+
 4. Enter the value of the ETH that is payable to the `purchasePainting` method. In this example, 35 ETH will be deducted from the purchaser account.
+
+![Step-4](/src/images/Step-4.png)
+
 5. Verify that the purchaser account should have 3 paintings transferred and 5 ETH credited as gift card.
+
+![Step-5](/src/images/Step-5.png)
+
 6. Verify that the owner account is credited with 35 ETH and that the purchaser account is deducted by 35 ETH.
+
+![Step-6](/src/images/Step-6.png)
+
 7. Verify that the owner account has only 7 paintings and 95 ETH worth gift cards.
+
+![Step-7](/src/images/Step-7.png)
 
 ## Errors Encountered and Solutions
 - **Transact to MyERC1155Token.purchasePainting errored: Error occured: revert.**
