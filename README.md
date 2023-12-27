@@ -102,12 +102,12 @@ In summary, the `_safeBatchTransferFrom` function is a crucial component in the 
 
 ## How to Execute
 
-### Owner Account (Account address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4)
+#### Owner Account (Account address: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4)
 
 1. Deploy the contract, specifying the initial supplies of paintings and gift cards.
 2. Access the contract functions for managing tokens and viewing balances using `getOwnerTokens` function.
 
-### Purchaser Account (Account address: 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2)
+#### Purchaser Account (Account address: 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2)
 
 1. Execute the `purchasePainting` function by sending Ether to acquire paintings.
 2. Query token balances using the `getOwnerTokens` function.
