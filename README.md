@@ -1,2 +1,2 @@
 # art-marketplace
-Art Marketplace using ERC-1155 Tokenization.
+Blockchain Art Marketplace using ERC-1155 Tokenization.
